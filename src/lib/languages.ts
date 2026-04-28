@@ -264,7 +264,7 @@ Obrigado pelo seu interesse em participar.`,
     messages: {
       welcome: `Benvenuto/a e grazie per aver accettato di partecipare!
 
-Siamo **[inserire nome]** e Le chiediamo di aiutarci a migliorare [inserirei "il nostro sito internet" o "la nostra applicazione" o altro].
+Siamo **[inserire nome]** e Le chiediamo di aiutarci a migliorare [inserire "il nostro sito internet" o "la nostra applicazione" o altro].
 
 Di seguito Le verrà presentato un questionario composto da **[inserire numero domande]** brevi domande (dalla durata di circa **[inserire durata in minuti]**).
 
